@@ -1,0 +1,34 @@
+#+BEGIN_QUOTE
+
+[[https://github.com/sindresorhus/awesome][
+https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg]]
+
+A community driven list of resources of interest to CS Educations.
+
+
+* Blogs
+
+[[https://cestlaz.github,io][- C'est la Z]] - Mike Zamansky
+[[https://gflint.wordpress.com/][- Garth's CS Education Blog]] - Garth Flint
+[[https://computinged.wordpress.com/][- Computing Education Blog]] - Mark Guzdial
+[[http://geekymomblog.com/][- Geeky Mom Blog]] - Laura Blankenship
+[[https://codinginmathclass.wordpress.com/][- Coding in Math Class]] - Dawn DuPriest
+[[http://blog.acthompson.net/][- Computer Science Teacher]] - Alfred Thompson
+ 
+| [[https://gflint.wordpress.com/][Garth's CS Education Blog]] | Garth Flint       |
+| [[https://computinged.wordpress.com/][Computing Education Blog]]  | Mark Guzdial      |
+| [[http://geekymomblog.com/][Geeky Mom Blog]]            | Laura Blankenship |
+| [[https://codinginmathclass.wordpress.com/][Coding in Math Class]]      | Dawn DuPriest     |
+| [[http://blog.acthompson.net/][Computer Science Teacher]]  | Alfred Thompson   |
+| [[http://cestlaz.github.io][C'est la Z]]                | Mike Zamansky     |
+* Sites
+
+CSE
+
+
+
+https://cseducators.stackexchange.com/
+
+
+code.org
+codesters.com

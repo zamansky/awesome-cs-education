@@ -1,1 +1,0 @@
-# awesome-cs-education
