@@ -36,6 +36,7 @@ A community driven list of resources of interest to CS Educations.
 - [[http://www.csteachers.org/][CSTeachers.org]] - CSTA
 - [[http://acm.org][ACM]] - Association for Computing Machinery 
 - [[https://cseducators.stackexchange.com/][Computer Science Educators StackExcahnge]]
+- [[https://www.reddit.com/r/CSEducation/][CS Education subreddit]]
 ** Mailing Lists
 - [[http://sigcse.org/sigcse/membership/mailing-lists][SIGCSE Mailing Lists]]
 - APCSA - need join link
