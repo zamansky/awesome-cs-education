@@ -74,5 +74,6 @@ A community driven list of resources of interest to CS Educations.
 
 
 * Topic and Language Specific
+- [[https://github.com/sindresorhus/awesome][Awesome]] - a list of awesome lists
 - [[https://github.com/Macmod/awesome-cs][Awesome CS]] - many Awesome CS topic and language links
 
