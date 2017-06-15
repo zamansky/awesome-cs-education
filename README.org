@@ -37,11 +37,31 @@ A community driven list of resources of interest to CS Educations.
 - [[https://www.facebook.com/groups/1029824640390220/][APCSP Teachers]]
 - [[https://www.facebook.com/groups/FollowCSTA/][CSTA]]
 
-* Resource sites
 
-| Site      | Description |
-|-----------+-------------|
-| [[http://code.org][code.org]]  |             |
-| [[http://codestes.com][Codesters]] | Python      |
+* Important sites that defy categorization
 
+| Site     | Description                                        |
+|----------+----------------------------------------------------|
+| [[http://code.org][code.org]] | online ide, curricula, outreach materials and more |
+|          |                                                    |
+
+
+
+* Online tools and IDES
+** Repls
+| Site       | Description                                                            |
+|------------+------------------------------------------------------------------------|
+| [[http://codesters.com][Codesters]]  | Python REPL with curriculum and online community                       |
+| [[http://repl.it][Repl.it]]    | Multi language support and classroom support                           |
+| [[http://codingbat.com][Coding Bat]] | Python and Java, classroom grading support and make your own questions |
+|            |                                                                        |
+
+* Curricula and support services
+| Site  | Description                                                 |
+|-------+-------------------------------------------------------------|
+| [[http://tealsk12.org][TEALS]] | Partner with a Software Engineer to bring CS to your school |
+
+
+* Topic and Language Specific
+- [[https://github.com/Macmod/awesome-cs][Awesome CS]] - many Awesome CS topic and language links
 
