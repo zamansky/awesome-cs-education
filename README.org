@@ -1,3 +1,9 @@
+
+
+[[https://github.com/sindresorhus/awesome][https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg]]
+
+A community driven list of resources of interest to CS Educations.
+
 #+BEGIN_QUOTE
 *Table of Contents*
 - [[#awesome-cs-education][Awesome CS Education]]
@@ -7,12 +13,6 @@
   - [[#facebook][Facebook]]
 - [[#resource-sites][Resource sites]]
 #+END_QUOTE* Awesome CS Education
-
-
-[[https://github.com/sindresorhus/awesome][https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg]]
-
-A community driven list of resources of interest to CS Educations.
-
 
 * Blogs
 
