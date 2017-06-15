@@ -11,18 +11,23 @@ A community driven list of resources of interest to CS Educations.
 - [[#groups-and-communities][Groups and Communities]]
   - [[#general][General]]
   - [[#facebook][Facebook]]
-- [[#resource-sites][Resource sites]]
+- [[#important-sites-that-defy-categorization][Important sites that defy categorization]]
+- [[#online-tools-and-ides][Online tools and IDEs]]
+  - [[#repls][Repls]]
+- [[#curricula-and-support-services][Curricula and support services]]
+- [[#topic-and-language-specific][Topic and Language Specific]]
 #+END_QUOTE* Awesome CS Education
 
 * Blogs
 
- 
-| [[http://blog.acthompson.net/][Computer Science Teacher]]  | Alfred Thompson   |
-| [[http://cestlaz.github.io][C'est la Z]]                | Mike Zamansky     |
-| [[http://geekymomblog.com/][Geeky Mom Blog]]            | Laura Blankenship |
-| [[https://codinginmathclass.wordpress.com/][Coding in Math Class]]      | Dawn DuPriest     |
-| [[https://computinged.wordpress.com/][Computing Education Blog]]  | Mark Guzdial      |
-| [[https://gflint.wordpress.com/][Garth's CS Education Blog]] | Garth Flint       |
+| Blog                      | Author            | Notes |
+|---------------------------+-------------------+-------|
+| [[http://blog.acthompson.net/][Computer Science Teacher]]  | Alfred Thompson   |       |
+| [[http://cestlaz.github.io][C'est la Z]]                | Mike Zamansky     |       |
+| [[http://geekymomblog.com/][Geeky Mom Blog]]            | Laura Blankenship |       |
+| [[https://codinginmathclass.wordpress.com/][Coding in Math Class]]      | Dawn DuPriest     |       |
+| [[https://computinged.wordpress.com/][Computing Education Blog]]  | Mark Guzdial      |       |
+| [[https://gflint.wordpress.com/][Garth's CS Education Blog]] | Garth Flint       |       |
 
 
 * Groups and Communities
@@ -47,7 +52,7 @@ A community driven list of resources of interest to CS Educations.
 
 
 
-* Online tools and IDES
+* Online tools and IDEs
 ** Repls
 | Site       | Description                                                            |
 |------------+------------------------------------------------------------------------|
@@ -57,9 +62,11 @@ A community driven list of resources of interest to CS Educations.
 |            |                                                                        |
 
 * Curricula and support services
-| Site  | Description                                                 |
-|-------+-------------------------------------------------------------|
-| [[http://tealsk12.org][TEALS]] | Partner with a Software Engineer to bring CS to your school |
+| Site      | Description                                                 |
+|-----------+-------------------------------------------------------------|
+| [[http://tealsk12.org][TEALS]]     | Partner with a Software Engineer to bring CS to your school |
+| [[http://codesters.com][Codesters]] | Python based tools and curricula                            |
+|           |                                                             |
 
 
 * Topic and Language Specific
