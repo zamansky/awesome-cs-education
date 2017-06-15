@@ -17,8 +17,18 @@ A community driven list of resources of interest to CS Educations.
 | [[https://gflint.wordpress.com/][Garth's CS Education Blog]] | Garth Flint       |
 
 
-* Sites
+* Groups and Communities
+** Facebook
+https://www.facebook.com/groups/CSEdForum/ cs education discussion
+https://www.facebook.com/groups/1546763215587966/ -- education
+researchers and practitioners
 
+https://www.facebook.com/groups/APComputerScienceTeachers/ APCS
+teachers
+
+https://www.facebook.com/groups/1029824640390220/ APCSP educators 
+
+https://www.facebook.com/groups/FollowCSTA/ CSTA
 CSE
 
 
