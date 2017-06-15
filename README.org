@@ -10,6 +10,7 @@ A community driven list of resources of interest to CS Educations.
 - [[#blogs][Blogs]]
 - [[#groups-and-communities][Groups and Communities]]
   - [[#general][General]]
+  - [[#mailing-lists][Mailing Lists]]
   - [[#facebook][Facebook]]
 - [[#important-sites-that-defy-categorization][Important sites that defy categorization]]
 - [[#online-tools-and-ides][Online tools and IDEs]]
@@ -35,6 +36,9 @@ A community driven list of resources of interest to CS Educations.
 - [[http://www.csteachers.org/][CSTeachers.org]] - CSTA
 - [[http://acm.org][ACM]] - Association for Computing Machinery 
 - [[https://cseducators.stackexchange.com/][Computer Science Educators StackExcahnge]]
+** Mailing Lists
+- [[http://sigcse.org/sigcse/membership/mailing-lists][SIGCSE Mailing Lists]]
+- APCSA - need join link
 ** Facebook
 - [[https://www.facebook.com/groups/CSEdForum/][CS Education Discussion]]
 - [[https://www.facebook.com/groups/1546763215587966/][CS Education Researchers and Practitioners]]
