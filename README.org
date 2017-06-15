@@ -65,6 +65,10 @@ A community driven list of resources of interest to CS Educations.
 | [[http://repl.it][Repl.it]]    | Multi language support and classroom support                           |
 | [[http://codingbat.com][Coding Bat]] | Python and Java, classroom grading support and make your own questions |
 |            |                                                                        |
+** Online problem sites
+| Site       | Description                                                            |
+|------------+------------------------------------------------------------------------|
+| [[http://codingbat.com][Coding Bat]] | Python and Java, classroom grading support and make your own questions |
 
 * Curricula and support services
 | Site           | Description                                                                   |
