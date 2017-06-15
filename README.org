@@ -67,11 +67,12 @@ A community driven list of resources of interest to CS Educations.
 |            |                                                                        |
 
 * Curricula and support services
-| Site      | Description                                                 |
-|-----------+-------------------------------------------------------------|
-| [[http://tealsk12.org][TEALS]]     | Partner with a Software Engineer to bring CS to your school |
-| [[http://codesters.com][Codesters]] | Python based tools and curricula                            |
-|           |                                                             |
+| Site           | Description                                                                   |
+|----------------+-------------------------------------------------------------------------------|
+| [[http://tealsk12.org][TEALS]]          | Partner with a Software Engineer to bring CS to your school                   |
+| [[http://codesters.com][Codesters]]      | Python based tools and curricula                                              |
+| [[http://www.bootstrapworld.org/][Bootstrapworld]] | Functional programming either standalone CS or integrated into other subjects |
+|                |                                                                               |
 
 
 * Topic and Language Specific
