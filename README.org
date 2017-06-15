@@ -63,12 +63,12 @@ A community driven list of resources of interest to CS Educations.
 |------------+------------------------------------------------------------------------|
 | [[http://codesters.com][Codesters]]  | Python REPL with curriculum and online community                       |
 | [[http://repl.it][Repl.it]]    | Multi language support and classroom support                           |
-| [[http://codingbat.com][Coding Bat]] | Python and Java, classroom grading support and make your own questions |
 |            |                                                                        |
 ** Online problem sites
-| Site       | Description                                                            |
-|------------+------------------------------------------------------------------------|
-| [[http://codingbat.com][Coding Bat]] | Python and Java, classroom grading support and make your own questions |
+| Site              | Description                                                            |
+|-------------------+------------------------------------------------------------------------|
+| [[http://codingbat.com][Coding Bat]]        | Python and Java, classroom grading support and make your own questions |
+| [[http://www.codestepbystep.com/][code step by step]] |                                                                        |
 
 * Curricula and support services
 | Site           | Description                                                                   |
