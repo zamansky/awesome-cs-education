@@ -18,17 +18,27 @@ A community driven list of resources of interest to CS Educations.
 
 
 * Groups and Communities
+** General
+- [[http://www.csteachers.org/][CSTeachers.org]] - CSTA
+
 ** Facebook
+- [[https://www.facebook.com/groups/CSEdForum/][CS Education Discussion]]
+- [[https://www.facebook.com/groups/1546763215587966/][CS Education Researchers and Practitioners]]
+- [[https://www.facebook.com/groups/APComputerScienceTeachers/][AP CS Teachers]]
+- [[https://www.facebook.com/groups/1029824640390220/][APCSP Teachers]]
+- [[https://www.facebook.com/groups/FollowCSTA/][CSTA]] 
+
+
 https://www.facebook.com/groups/CSEdForum/ cs education discussion
-https://www.facebook.com/groups/1546763215587966/ -- education
+ -- education
 researchers and practitioners
 
-https://www.facebook.com/groups/APComputerScienceTeachers/ APCS
+
 teachers
 
-https://www.facebook.com/groups/1029824640390220/ APCSP educators 
 
-https://www.facebook.com/groups/FollowCSTA/ CSTA
+
+
 CSE
 
 
