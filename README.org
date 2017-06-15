@@ -1,4 +1,12 @@
-* Awesome CS Education
+#+BEGIN_QUOTE
+*Table of Contents*
+- [[#awesome-cs-education][Awesome CS Education]]
+- [[#blogs][Blogs]]
+- [[#groups-and-communities][Groups and Communities]]
+  - [[#general][General]]
+  - [[#facebook][Facebook]]
+- [[#resource-sites][Resource sites]]
+#+END_QUOTE* Awesome CS Education
 
 
 [[https://github.com/sindresorhus/awesome][https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg]]
@@ -20,31 +28,20 @@ A community driven list of resources of interest to CS Educations.
 * Groups and Communities
 ** General
 - [[http://www.csteachers.org/][CSTeachers.org]] - CSTA
-
+- [[http://acm.org][ACM]] - Association for Computing Machinery 
+- [[https://cseducators.stackexchange.com/][Computer Science Educators StackExcahnge]]
 ** Facebook
 - [[https://www.facebook.com/groups/CSEdForum/][CS Education Discussion]]
 - [[https://www.facebook.com/groups/1546763215587966/][CS Education Researchers and Practitioners]]
 - [[https://www.facebook.com/groups/APComputerScienceTeachers/][AP CS Teachers]]
 - [[https://www.facebook.com/groups/1029824640390220/][APCSP Teachers]]
-- [[https://www.facebook.com/groups/FollowCSTA/][CSTA]] 
+- [[https://www.facebook.com/groups/FollowCSTA/][CSTA]]
+
+* Resource sites
+
+| Site      | Description |
+|-----------+-------------|
+| [[http://code.org][code.org]]  |             |
+| [[http://codestes.com][Codesters]] | Python      |
 
 
-https://www.facebook.com/groups/CSEdForum/ cs education discussion
- -- education
-researchers and practitioners
-
-
-teachers
-
-
-
-
-CSE
-
-
-
-https://cseducators.stackexchange.com/
-
-
-code.org
-codesters.com
