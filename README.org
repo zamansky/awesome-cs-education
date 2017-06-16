@@ -8,7 +8,7 @@ To contribute, follow this [[https://github.com/zamansky/awesome-cs-education/bl
 
 #+BEGIN_QUOTE
 *Table of Contents*
-- [[#awesome-cs-education][Awesome CS Educatoion]]
+- [[#awesome-cs-education][Awesome CS Education]]
 - [[#blogs][Blogs]]
 - [[#groups-and-communities][Groups and Communities]]
   - [[#general][General]]
@@ -17,7 +17,9 @@ To contribute, follow this [[https://github.com/zamansky/awesome-cs-education/bl
 - [[#important-sites-that-defy-categorization][Important sites that defy categorization]]
 - [[#online-tools-and-ides][Online tools and IDEs]]
   - [[#repls][Repls]]
+  - [[#online-problem-sites][Online problem sites]]
 - [[#curricula-and-support-services][Curricula and support services]]
+- [[#interesting-talks--presentations--videos-etc][Interesting talks / presentations / videos etc.]]
 - [[#topic-and-language-specific][Topic and Language Specific]]
 #+END_QUOTE* Awesome CS Education
 
