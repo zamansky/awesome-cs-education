@@ -81,6 +81,11 @@ To contribute, follow this [[https://github.com/zamansky/awesome-cs-education/bl
 | [[http://www.bootstrapworld.org/][Bootstrapworld]] | Functional programming either standalone CS or integrated into other subjects |
 |                |                                                                               |
 
+* Interesting talks / presentations / videos etc.
+(inclusion in this section does not imply endorsement views by the
+curators of this site but all listed links are considered worth a
+visit)
+- [[https://docs.google.com/presentation/d/1skkpIGPR81RsnIuth2PjhMkCi1YuODqpLOhEEjXsnXQ/edit#slide=id.gc6f75fceb_0_0][Andy Ko's talk in teaching computer science]]
 
 * Topic and Language Specific
 - [[https://github.com/sindresorhus/awesome][Awesome]] - a list of awesome lists
