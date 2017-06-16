@@ -4,9 +4,11 @@
 
 A community driven list of resources of interest to CS Educations.
 
+To contribute, follow this [[https://github.com/zamansky/awesome-cs-education/blob/master/contributing.org][contribution guide]]. 
+
 #+BEGIN_QUOTE
 *Table of Contents*
-- [[#awesome-cs-education][Awesome CS Education]]
+- [[#awesome-cs-education][Awesome CS Educatoion]]
 - [[#blogs][Blogs]]
 - [[#groups-and-communities][Groups and Communities]]
   - [[#general][General]]
