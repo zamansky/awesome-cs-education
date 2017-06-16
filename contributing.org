@@ -1,8 +1,32 @@
 * Contribution Guide
 
+Contributions to awesome-cs-education is done through GitHub pull
+requests. You can do this in the traditional way of forking the repo,
+editing files in your copy of the repo and then issuing a pull
+request.
+
+If you're not familiar with making pull requests you can submit
+changes right from the awesome-cs-education repo.
+
+First, go to the awesome-cs-education repo at
+[[https://github.com/zamansky/awesome-cs-education][https://github.com/zamansky/awesome-cs-education]]. 
+
+Next, click on the **README.org** file - that's where the list lives.
 
 [[/files/acs-1.png]]
 
+
+The list is written using org-mode markup. It's pretty
+straightforward. Here's a cheatsheet:
+[[http://ergoemacs.org/emacs/emacs_org_markup.html][http://ergoemacs.org/emacs/emacs_org_markup.html]].
+
+
+Then click on the edit icon:
+
 [[/files/acs-2.png]]
+
+and make the changes.
+
+Finally, fill out the section on the bottom and propose the changes:
 
 [[/files/acs-3.png]]
