@@ -11,7 +11,7 @@ changes right from the awesome-cs-education repo.
 First, go to the awesome-cs-education repo at
 [[https://github.com/zamansky/awesome-cs-education][https://github.com/zamansky/awesome-cs-education]]. 
 
-Next, click on the **README.org** file - that's where the list lives.
+Next, click on the *README.org* file - that's where the list lives.
 
 [[/files/acs-1.png]]
 
