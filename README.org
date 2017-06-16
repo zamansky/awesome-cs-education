@@ -19,7 +19,7 @@ A community driven list of resources of interest to CS Educations.
 - [[#topic-and-language-specific][Topic and Language Specific]]
 #+END_QUOTE* Awesome CS Education
 
-* Blogs
+* Blogs 
 
 | Blog                      | Author            | Notes |
 |---------------------------+-------------------+-------|
@@ -55,7 +55,7 @@ A community driven list of resources of interest to CS Educations.
 | [[http://code.org][code.org]] | online ide, curricula, outreach materials and more |
 |          |                                                    |
 
-
+xxxxxxxx
 
 * Online tools and IDEs
 ** Repls
