@@ -63,7 +63,6 @@ A community driven list of resources of interest to CS Educations.
 |------------+------------------------------------------------------------------------|
 | [[http://codesters.com][Codesters]]  | Python REPL with curriculum and online community                       |
 | [[http://repl.it][Repl.it]]    | Multi language support and classroom support                           |
-| [[https://codeanywhere.com/]]  | test |
 |            |                                                                        |
 ** Online problem sites
 | Site              | Description                                                            |
