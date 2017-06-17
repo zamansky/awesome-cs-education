@@ -70,11 +70,6 @@ To contribute, follow this [[https://github.com/zamansky/awesome-cs-education/bl
 - [[https://www.facebook.com/groups/1029824640390220/][APCSP Teachers]]
 - [[https://www.facebook.com/groups/FollowCSTA/][CSTA]]
 
-
-
-
-
-
 * Online tools and IDEs
 ** Repls
 | Site       | Description                                                            |
@@ -118,7 +113,16 @@ curators of this site but all listed links are considered worth a
 visit)
 - [[https://docs.google.com/presentation/d/1skkpIGPR81RsnIuth2PjhMkCi1YuODqpLOhEEjXsnXQ/edit#slide=id.gc6f75fceb_0_0][Andy Ko's talk in teaching computer science]]
 
-* Topic and Language Specific
+* Language Specific links
+** Java
+** Python
+
+* Course / Level specific links
+** Intro (including APCS-P)
+** Intermediate (include APCS-A or first yaer college)
+** Advanced
+
+* Other CS Ed related awesome sites
 - [[https://github.com/sindresorhus/awesome][Awesome]] - a list of awesome lists
 - [[https://github.com/Macmod/awesome-cs][Awesome CS]] - many Awesome CS topic and language links
 
