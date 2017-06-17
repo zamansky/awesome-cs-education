@@ -123,6 +123,7 @@ visit)
 * Language Specific links
 ** Java
 ** Python
+- [[https://github.com/quobit/awesome-python-in-education][Awesome Python in Education]] -  A curated list about Python in Education
 
 * Course / Level specific links
 ** Intro (including APCS-P)
