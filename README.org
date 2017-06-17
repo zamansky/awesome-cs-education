@@ -2,7 +2,7 @@
 
 [[https://github.com/sindresorhus/awesome][https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg]]
 
-A community driven list of resources of interest to CS Educations.
+A community driven list of resources of interest to CS Educators.
 
 To contribute, follow this [[https://github.com/zamansky/awesome-cs-education/blob/master/contributing.org][contribution guide]]. 
 
@@ -58,6 +58,7 @@ To contribute, follow this [[https://github.com/zamansky/awesome-cs-education/bl
 | Site     | Description                                        |
 |----------+----------------------------------------------------|
 | [[http://code.org][code.org]] | online ide, curricula, outreach materials and more |
+| [[http://www.csinsf.org/][CS For All in SF]] | curricula, resources, research and more |
 |          |                                                    |
 
 
