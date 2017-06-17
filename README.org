@@ -36,10 +36,22 @@ To contribute, follow this [[https://github.com/zamansky/awesome-cs-education/bl
 | [[https://gflint.wordpress.com/][Garth's CS Education Blog]] | Garth Flint       |       |
 
 
-* Groups and Communities
+* Organizations and non profits
 ** General
-- [[http://www.csteachers.org/][CSTeachers.org]] - CSTA
-- [[http://acm.org][ACM]] - Association for Computing Machinery 
+| Site            | Description                                                  |
+|-----------------+--------------------------------------------------------------|
+| [[http://code.org][code.org]]        | online ide, curricula, outreach materials and more           |
+| [[http://www.csteachers.org/][ CSTeachers.org]] | CSTA - Computer Science Teachers Association  (ACM subgroup) |
+| [[http://acm.org][ACM]]             | Association for Computing Machinery                          |
+** Regional
+| Site               | Description                             |
+|--------------------+-----------------------------------------|
+| [[http://www.csinsf.org/][CS For All in SF]]   | curricula, resources, research and more |
+| [[http://cs4all.org/][CS4Alll New Mexico]] | curricula, resources, research and more |
+| [[http://csnyc.org][CSNYC]]              | CS4All NYC                              |
+
+* online Communities
+** Popular sites
 - [[https://cseducators.stackexchange.com/][Computer Science Educators StackExcahnge]]
 - [[https://www.reddit.com/r/CSEducation/][CS Education subreddit]]
 ** Mailing Lists
@@ -53,13 +65,7 @@ To contribute, follow this [[https://github.com/zamansky/awesome-cs-education/bl
 - [[https://www.facebook.com/groups/FollowCSTA/][CSTA]]
 
 
-* Important sites that defy categorization
 
-| Site     | Description                                        |
-|----------+----------------------------------------------------|
-| [[http://code.org][code.org]] | online ide, curricula, outreach materials and more |
-| [[http://www.csinsf.org/][CS For All in SF]] | curricula, resources, research and more |
-|          |                                                    |
 
 
 
@@ -86,6 +92,19 @@ To contribute, follow this [[https://github.com/zamansky/awesome-cs-education/bl
 | [[http://codesters.com][Codesters]]      | Python based tools and curricula                                              |
 | [[http://www.bootstrapworld.org/][Bootstrapworld]] | Functional programming either standalone CS or integrated into other subjects |
 |                |                                                                               |
+
+* Computer Science Competitions for K12
+** online / at local schools
+| Competition | Notes                                                           |
+|-------------+-----------------------------------------------------------------|
+| [[http://www.usaco.org][USACO]]       | individual. independent of school, training materials available |
+| [[http://www.acsl.org][ACSL]]        | In school, individual, team                                     |
+** Regional
+
+* Regional Professional Development
+| Link | Description | Location | time of year |
+|------+-------------+----------+--------------|
+|      |             |          |              |
 
 * Interesting talks / presentations / videos etc.
 (inclusion in this section does not imply endorsement views by the
