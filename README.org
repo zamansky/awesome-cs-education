@@ -67,6 +67,7 @@ To contribute, follow this [[https://github.com/zamansky/awesome-cs-education/bl
 ** Repls
 | Site       | Description                                                            |
 |------------+------------------------------------------------------------------------|
+| [[http://codehs.com][CodeHS]]  | Multi language support, classroom support, curriculum and online community                      |
 | [[http://codesters.com][Codesters]]  | Python REPL with curriculum and online community                       |
 | [[http://repl.it][Repl.it]]    | Multi language support and classroom support                           |
 |            |                                                                        |
@@ -74,11 +75,13 @@ To contribute, follow this [[https://github.com/zamansky/awesome-cs-education/bl
 | Site              | Description                                                            |
 |-------------------+------------------------------------------------------------------------|
 | [[http://codingbat.com][Coding Bat]]        | Python and Java, classroom grading support and make your own questions |
+| [[http://codehs.com][CodeHS]]        | Python, Java, JavaScript, classroom grading support and make your own questions and graders, with shared repository of teacher created problems |
 | [[http://www.codestepbystep.com/][code step by step]] |                                                                        |
 
 * Curricula and support services
 | Site           | Description                                                                   |
 |----------------+-------------------------------------------------------------------------------|
+| [[http://codehs.com][CodeHS]]          | 6-12 Curriculum (JS, Python, AP Java, AP CSP and more), curriculum tools, PD, and classroom management tools and resources                   |
 | [[http://tealsk12.org][TEALS]]          | Partner with a Software Engineer to bring CS to your school                   |
 | [[http://codesters.com][Codesters]]      | Python based tools and curricula                                              |
 | [[http://www.bootstrapworld.org/][Bootstrapworld]] | Functional programming either standalone CS or integrated into other subjects |
