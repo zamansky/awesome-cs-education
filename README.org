@@ -26,7 +26,14 @@ To contribute, follow this [[https://github.com/zamansky/awesome-cs-education/bl
   - [[#regional][Regional]]
 - [[#regional-professional-development][Regional Professional Development]]
 - [[#interesting-talks--presentations--videos-etc][Interesting talks / presentations / videos etc.]]
-- [[#topic-and-language-specific][Topic and Language Specific]]
+- [[#language-specific-links][Language Specific links]]
+  - [[#java][Java]]
+  - [[#python][Python]]
+- [[#course--level-specific-links][Course / Level specific links]]
+  - [[#intro-including-apcs-p][Intro (including APCS-P)]]
+  - [[#intermediate-include-apcs-a-or-first-yaer-college][Intermediate (include APCS-A or first yaer college)]]
+  - [[#advanced][Advanced]]
+- [[#other-cs-ed-related-awesome-sites][Other CS Ed related awesome sites]]
 #+END_QUOTE* Awesome CS Education
 
 * Blogs
