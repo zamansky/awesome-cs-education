@@ -90,7 +90,10 @@ To contribute, follow this [[https://github.com/zamansky/awesome-cs-education/bl
 |-------------------+------------------------------------------------------------------------|
 | [[http://codingbat.com][Coding Bat]]        | Python and Java, classroom grading support and make your own questions |
 | [[http://codehs.com][CodeHS]]        | Python, Java, JavaScript, classroom grading support and make your own questions and graders, with shared repository of teacher created problems |
-| [[http://www.codestepbystep.com/][code step by step]] |                                                                        |
+| [[http://www.codestepbystep.com/][code step by step]] |  Code Step By Step |
+| [[https://chortle.ccsu.edu/CPuzzles/][C Puzzles]] | Short algorithmic challenges to solve in C |
+| [[https://regexcrossword.com/][Regex Crossword]] | Learn regular expressions through crossword puzzles |
+|                   |                                                                         |
 
 * Curricula and support services
 | Site           | Description                                                                   |
@@ -127,8 +130,10 @@ visit)
 
 * Course / Level specific links
 ** Intro (including APCS-P)
-** Intermediate (include APCS-A or first yaer college)
+- [[https://ap.cs50.net][CS50 AP]] - Harvard University's adaptation of CS50 for AP Computer Science Principles
+** Intermediate (include APCS-A or first year college)
 ** Advanced
+- [[http://nand2tetris.org/][Nand2Tetris]] - Nand2Tetris is textbook/course in computer architecture from logic gates up through virtual machines and compilers
 
 * Other CS Ed related awesome sites
 - [[https://github.com/sindresorhus/awesome][Awesome]] - a list of awesome lists
