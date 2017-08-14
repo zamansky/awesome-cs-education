@@ -25,6 +25,7 @@ To contribute, follow this [[https://github.com/zamansky/awesome-cs-education/bl
   - [[#online--at-local-schools][online / at local schools]]
   - [[#regional][Regional]]
 - [[#regional-professional-development][Regional Professional Development]]
+- [[#online-professional-development][Online Professional Development]]
 - [[#interesting-talks--presentations--videos-etc][Interesting talks / presentations / videos etc.]]
 - [[#language-specific-links][Language Specific links]]
   - [[#java][Java]]
@@ -116,6 +117,15 @@ To contribute, follow this [[https://github.com/zamansky/awesome-cs-education/bl
 | Link | Description | Location | time of year |
 |------+-------------+----------+--------------|
 |      |             |          |              |
+
+
+* Online Professional Development
+Professional development courses geared for teachers to help teach computer science. 
+| Name | Description |
+|------+-------------+----------+--------------|
+| [[https://codehs.com/info/pd][CodeHS]]      | CodeHS offers many online professional development courses for teachers looking to learn how to teach computer science classes. In several states, you can get official credit/approvals by completing one of the courses. Courses include: Teaching Intro to Computer Science, Teaching AP Computer Science Principles, Teaching AP Computer Science in Java, Teaching Computing Ideas, Teaching Intro Python, Teaching Web Design. The courses are approximately 30-40 hour online courses with personalized grading.              |
+
+
 
 * Interesting talks / presentations / videos etc.
 (inclusion in this section does not imply endorsement views by the
