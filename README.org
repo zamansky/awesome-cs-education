@@ -149,3 +149,8 @@ visit)
 - [[https://github.com/sindresorhus/awesome][Awesome]] - a list of awesome lists
 - [[https://github.com/Macmod/awesome-cs][Awesome CS]] - many Awesome CS topic and language links
 
+* License
+[[http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)%5D(https://creativecommons.org/publicdomain/zero/1.0/]]
+
+
+To the extent possible under law, Mike Zamansky has waived all copyright and related or neighboring rights to this work.
