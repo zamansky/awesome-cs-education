@@ -32,9 +32,10 @@ To contribute, follow this [[https://github.com/zamansky/awesome-cs-education/bl
   - [[#python][Python]]
 - [[#course--level-specific-links][Course / Level specific links]]
   - [[#intro-including-apcs-p][Intro (including APCS-P)]]
-  - [[#intermediate-include-apcs-a-or-first-yaer-college][Intermediate (include APCS-A or first yaer college)]]
+  - [[#intermediate-include-apcs-a-or-first-year-college][Intermediate (include APCS-A or first year college)]]
   - [[#advanced][Advanced]]
 - [[#other-cs-ed-related-awesome-sites][Other CS Ed related awesome sites]]
+- [[#license][License]]
 #+END_QUOTE* Awesome CS Education
 
 * Blogs
