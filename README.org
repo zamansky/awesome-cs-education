@@ -138,7 +138,7 @@ visit)
 ** Java
 ** Python
 - [[https://github.com/quobit/awesome-python-in-education][Awesome Python in Education]] -  A curated list about Python in Education
-
+- [[https://www.ynonperek.com/2017/09/21/python-exercises/][Non-trivial Python Exercises]]
 * Course / Level specific links
 ** Intro (including APCS-P)
 - [[https://ap.cs50.net][CS50 AP]] - Harvard University's adaptation of CS50 for AP Computer Science Principles
