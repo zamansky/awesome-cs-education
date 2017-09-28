@@ -88,14 +88,15 @@ To contribute, follow this [[https://github.com/zamansky/awesome-cs-education/bl
 | [[http://repl.it][Repl.it]]    | Multi language support and classroom support                           |
 |            |                                                                        |
 ** Online problem sites
-| Site              | Description                                                            |
-|-------------------+------------------------------------------------------------------------|
-| [[http://codingbat.com][Coding Bat]]        | Python and Java, classroom grading support and make your own questions |
-| [[http://codehs.com][CodeHS]]        | Python, Java, JavaScript, classroom grading support and make your own questions and graders, with shared repository of teacher created problems |
-| [[http://www.codestepbystep.com/][code step by step]] |  Code Step By Step |
-| [[https://chortle.ccsu.edu/CPuzzles/][C Puzzles]] | Short algorithmic challenges to solve in C |
-| [[https://regexcrossword.com/][Regex Crossword]] | Learn regular expressions through crossword puzzles |
-|                   |                                                                         |
+| Site              | Description                                                                                                                                     |
+|-------------------+-------------------------------------------------------------------------------------------------------------------------------------------------|
+| [[http://codingbat.com][Coding Bat]]        | Python and Java, classroom grading support and make your own questions                                                                          |
+| [[http://codehs.com][CodeHS]]            | Python, Java, JavaScript, classroom grading support and make your own questions and graders, with shared repository of teacher created problems |
+| [[http://www.codestepbystep.com/][code step by step]] | Code Step By Step                                                                                                                               |
+| [[https://chortle.ccsu.edu/CPuzzles/][C Puzzles]]         | Short algorithmic challenges to solve in C                                                                                                      |
+| [[http://exercism.io/][Exercism]]          | Download and solve practice problems in over 30 different languages. Submit them to the community for review.                                   |
+| [[https://regexcrossword.com/][Regex Crossword]]   | Learn regular expressions through crossword puzzles                                                                                             |
+|                   |                                                                                                                                                 |
 
 * Curricula and support services
 | Site           | Description                                                                   |
