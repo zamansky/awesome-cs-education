@@ -40,15 +40,28 @@ To contribute, follow this [[https://github.com/zamansky/awesome-cs-education/bl
 
 * Blogs
 
-| Blog                      | Author            | Notes |
-|---------------------------+-------------------+-------|
-| [[https://medium.com/bits-and-behavior][Bits and Behaviour]]        | Andy Ko           |       |
-| [[http://blog.acthompson.net/][Computer Science Teacher]]  | Alfred Thompson   |       |
-| [[http://cestlaz.github.io][C'est la Z]]                | Mike Zamansky     |       |
-| [[http://geekymomblog.com/][Geeky Mom Blog]]            | Laura Blankenship |       |
-| [[https://codinginmathclass.wordpress.com/][Coding in Math Class]]      | Dawn DuPriest     |       |
-| [[https://computinged.wordpress.com/][Computing Education Blog]]  | Mark Guzdial      |       |
-| [[https://gflint.wordpress.com/][Garth's CS Education Blog]] | Garth Flint       |       |
+| Blog                                                     | Author             | Notes |
+|----------------------------------------------------------+--------------------+-------|
+| [[https://medium.com/bits-and-behavior][Bits and Behaviour]]                                       | Andy Ko            |       |
+| [[http://blog.acthompson.net/][Computer Science Teacher]]                                 | Alfred Thompson    |       |
+| [[http://cestlaz.github.io][C'est la Z]]                                               | Mike Zamansky      |       |
+| [[http://geekymomblog.com/][Geeky Mom Blog]]                                           | Laura Blankenship  |       |
+| [[https://codinginmathclass.wordpress.com/][Coding in Math Class]]                                     | Dawn DuPriest      |       |
+| [[https://computinged.wordpress.com/][Computing Education Blog]]                                 | Mark Guzdial       |       |
+| [[https://gflint.wordpress.com/][Garth's CS Education Blog]]                                | Garth Flint        |       |
+| https://cszero.wordpress.com/                            | Brett Becker       |       |
+| https://sites.google.com/a/vt.edu/acbart-eportfolio/blog | Austin Bart        |       |
+| https://blog.emiliebarnard.com/                          | Emilie Barnard     |       |
+| https://medium.com/@colleenlewis                         | Colleen Lewis      |       |
+| http://blogs.whitman.edu/countingfromzero/               | Janet Davis        |       |
+| https://www.cs.grinnell.edu/~rebelsky/musings/           | Sam Rebelsky       |       |
+| http://www.cs.uni.edu/~wallingf/blog/                    | Eugene Wallingford |       |
+| https://cacm.acm.org/blogs/blog-cacm                     |                    |       |
+| http://gflint.wordpress.com/                             | Garth Flint        |       |
+| http://blog.acthompson.net                               | Alfred Thompson    |       |
+| http://innovativeteacher.org                             | Doug Bergman       |       |
+| https://cszero.wordpress.com/other/ is a meta list       |                    |       |
+
 
 
 * Organizations and non profits
