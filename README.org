@@ -42,7 +42,7 @@ To contribute, follow this [[https://github.com/zamansky/awesome-cs-education/bl
 
 | Blog                                                     | Author             | Notes |
 |----------------------------------------------------------+--------------------+-------|
-| [[https://medium.com/bits-and-behavior][Bits and Behaviour]]                                       | Andy Ko            |       |
+| [[https://medium.com/bits-and-behavior][Bits and Behaviour]]                                       | Amy Ko            |       |
 | [[http://blog.acthompson.net/][Computer Science Teacher]]                                 | Alfred Thompson    |       |
 | [[http://cestlaz.github.io][C'est la Z]]                                               | Mike Zamansky      |       |
 | [[http://geekymomblog.com/][Geeky Mom Blog]]                                           | Laura Blankenship  |       |
