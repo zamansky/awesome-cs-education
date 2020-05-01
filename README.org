@@ -99,6 +99,7 @@ To contribute, follow this [[https://github.com/zamansky/awesome-cs-education/bl
 | [[http://codehs.com][CodeHS]]  | Multi language support, classroom support, curriculum and online community                      |
 | [[http://codesters.com][Codesters]]  | Python REPL with curriculum and online community                       |
 | [[http://repl.it][Repl.it]]    | Multi language support and classroom support                           |
+| [[https://codingrooms.com][Coding Rooms]]    | Virtual classrooms for teaching coding that let you see all your students' code in real-time with multi-language support, audio, video, and presentation upload.         |
 |            |                                                                        |
 ** Online problem sites
 | Site              | Description                                                                                                                                     |
