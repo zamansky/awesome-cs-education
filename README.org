@@ -99,6 +99,7 @@ To contribute, follow this [[https://github.com/zamansky/awesome-cs-education/bl
 | [[http://codehs.com][CodeHS]]  | Multi language support, classroom support, curriculum and online community                      |
 | [[http://codesters.com][Codesters]]  | Python REPL with curriculum and online community                       |
 | [[http://repl.it][Repl.it]]    | Multi language support and classroom support                           |
+| [[http://codegrade.com][CodeGrade]]    | Supports 185+ programming languages, LMS integration and classroom support                           |
 |            |                                                                        |
 ** Online problem sites
 | Site              | Description                                                                                                                                     |
@@ -118,6 +119,7 @@ To contribute, follow this [[https://github.com/zamansky/awesome-cs-education/bl
 | [[http://tealsk12.org][TEALS]]          | Partner with a Software Engineer to bring CS to your school                   |
 | [[http://codesters.com][Codesters]]      | Python based tools and curricula                                              |
 | [[http://www.bootstrapworld.org/][Bootstrapworld]] | Functional programming either standalone CS or integrated into other subjects |
+| [[http://codegrade.com][CodeGrade]]    | Complete grading tool to deliver engaging feedback on code works with any programming language or framework        |
 |                |                                                                               |
 
 * Computer Science Competitions for K12
